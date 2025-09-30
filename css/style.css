@@ -1,0 +1,33 @@
+ 
+{border: 0; 
+margin-padding: 0;
+box-sizing: border-box;}    
+html {
+    background-color: #0A22F4
+}
+
+header img {
+    width: 97px;
+    height: 55px;
+    margin: top: 40px;
+    margin-left: 240px;
+}
+ul {
+    list-style: none;
+    display: inline-block;
+}  
+a  {
+    text-decoration: none;
+    color: #FFFFFF;
+}         
+nav {
+    display: inline-block;
+}
+li {display: inline-block;
+     padding-right:42px;
+}   
+article p { max-width: 463PX;}
+section {
+    background-color: #FFFFFF;
+    margin-left: 0px;
+}
