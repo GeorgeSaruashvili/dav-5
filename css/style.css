@@ -26,7 +26,8 @@ nav {
 li {display: inline-block;
      padding-right:42px;
 }   
-article p { max-width: 463PX;
+article p { 
+    max-width: 463PX;
     font-family: "font-2";
 }
 section {
