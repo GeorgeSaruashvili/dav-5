@@ -31,3 +31,6 @@ section {
     background-color: #FFFFFF;
     margin-left: 0px;
 }
+section p {
+    font-family: "Bitcount Ink", system-ui;
+}
